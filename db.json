@@ -1,0 +1,52 @@
+{
+    "games": [
+        {
+            "id": 0,
+            "publisher": "Electronic Arts",
+            "name": "Apex Legends",
+            "nickname": "Apex",
+            "rating": "most favorite",
+            "url": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/apex-featured-image-16x9.jpg.adapt.crop16x9.1023w.jpg"
+        },
+        {
+            "id": 1,
+            "publisher": "Riots",
+            "name": "Valorant",
+            "nickname": "Val",
+            "rating": "most favorite",
+            "url": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/5a52c72d-80fc-4c3f-bc24-52b09ab9896a_2560x1440-12a1d9b80efd050055faa72feee71f8e"
+        },
+        {
+            "id": 2,
+            "publisher": "Riot",
+            "name": "League Of Legends",
+            "nickname": "LOL",
+            "rating": "least favorite",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LeagueofLegends_RiotGames_S1_2560x1440-ee500721c06da3ec1e5535a88588c77f"
+        },
+        {
+            "id": 3,
+            "publisher": "Epic Games",
+            "name": "Fortnite",
+            "nickname": "FN",
+            "rating": "least favorite",
+            "url": "https://cdn2.unrealengine.com/21br-metaimage-lineup-1920x1080-44acd5f27136.jpg"
+        },
+        {
+            "id": 4,
+            "publisher": "Annapurna Interactive",
+            "name": "Stray",
+            "nickname": "stray",
+            "rating": "second favorite",
+            "url": "https://www.nme.com/wp-content/uploads/2022/06/Stray-1-2000x1270-1.jpg"
+        },
+        {
+            "id": 5,
+            "publisher": "CD Projekt",
+            "name": "Cyberpunk",
+            "nickname": "cyber",
+            "rating": "third favorite",
+            "url": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/06/Cyberpunk-2077.jpg"
+        }
+    ]
+}
